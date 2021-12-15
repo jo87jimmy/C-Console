@@ -1,0 +1,16 @@
+D:\C#\Vscode C#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.exe
+D:\C#\Vscode C#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+D:\C#\Vscode C#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+D:\C#\Vscode C#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+D:\C#\Vscode C#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.dll
+D:\C#\Vscode C#\Dictionary\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+D:\C#\Vscode C#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.dll
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+D:\C#\Vscode C#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache
